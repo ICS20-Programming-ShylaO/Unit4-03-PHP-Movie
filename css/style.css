@@ -9,7 +9,7 @@ body {
 }
 
 h1, h3 {
-  background-color: #48483a;
+  background-color: #b5b591;
   text-align: center;
   border: 2px solid #5c574f;
   color: white;
@@ -20,7 +20,7 @@ h1, h3 {
 }
 
 p, form{
-  background-color: #48483a;
+  background-color: #b5b591;
   border: 2px solid #5c574f;
   text-align: center;
   margin-left: 100px;
@@ -32,7 +32,7 @@ p, form{
 }
 
 #results {
-  background-color: #48483a;
+  background-color: #b5b591;
   border: 2px solid #5c574f;
   text-align: center;
   margin-left: 100px;
